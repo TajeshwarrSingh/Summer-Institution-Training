@@ -9,7 +9,24 @@ The Department of Computer Science and Engineering (CSE) conducted an introducti
 
 ## Hackathons
 
-Students were introduced to hackathons and their role in improving coding skills, teamwork, innovation, and real-world problem-solving abilities.
+# How a Hackathon Works
+
+## What is a Hackathon?
+
+A hackathon is a time-bound coding competition where individuals or teams build innovative solutions to real-world problems. It provides an opportunity to learn new technologies, collaborate with others, and showcase technical skills.
+
+## How Does a Hackathon Work?
+
+Participants register for the event individually or as a team. After the problem statements are announced, teams brainstorm ideas, design a solution, develop a working prototype, and present their project to a panel of judges within the given time limit (usually 24–48 hours).
+
+## How to Participate
+
+Students can participate by registering through the hackathon's official website or platform. They can either join an existing team or form a new team, select a problem statement, and work together to build and submit their solution before the deadline.
+
+## Skills Required
+
+Basic programming knowledge, problem-solving ability, teamwork, communication, and time management are essential for hackathons. Familiarity with technologies such as web development, app development, databases, Git/GitHub, and presentation skills can provide an added advantage.
+
 
 ## Career Domains
 
