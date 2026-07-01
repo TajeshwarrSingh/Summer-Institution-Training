@@ -40,10 +40,16 @@ The session provided an overview of various career domains in Computer Science, 
 -Web Development 
 
 ## Reverse Engineering
-Students can use reverse engineering as a learning technique to understand how software and applications are designed and implemented. By analyzing open-source projects, studying existing code, and exploring the architecture of applications, they can improve their programming, debugging, and problem-solving skills.
+## Reverse Engineering for Students
 
-Practicing reverse engineering regularly helps students gain a deeper understanding of software development, cybersecurity, and system design. It also prepares them for technical interviews, hackathons, competitive programming, and careers in software development, cybersecurity, and research by developing analytical thinking and practical knowledge.
-
+* Study open-source projects to understand how real-world software is designed and developed.
+* Analyze existing applications to improve programming and logical thinking skills.
+* Practice debugging and code analysis to identify and fix errors efficiently.
+* Learn about software architecture, algorithms, and system design by exploring working applications.
+* Develop problem-solving and analytical skills that are valuable in coding interviews and hackathons.
+* Build a strong foundation for careers in software development, cybersecurity, digital forensics, and research.
+* Gain hands-on experience with tools and techniques used by industry professionals.
+* Apply the knowledge gained to create better, more secure, and efficient software solutions.
 
 ## Career Options
 
