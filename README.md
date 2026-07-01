@@ -9,9 +9,9 @@ The Department of Computer Science and Engineering (CSE) conducted an introducti
 
 ## Hackathons
 
-### How a Hackathon Works
+## How a Hackathon Works
 
-## What is a Hackathon?
+### What is a Hackathon?
 
 A hackathon is a time-bound coding competition where individuals or teams build innovative solutions to real-world problems. It provides an opportunity to learn new technologies, collaborate with others, and showcase technical skills.
 
