@@ -53,7 +53,19 @@ The session provided an overview of various career domains in Computer Science, 
 
 ## Career Options
 
-Students were informed about different career opportunities after graduation, such as software engineering, research, higher studies, entrepreneurship, government jobs, and freelancing.
+## Career Options for CSE Students
+
+* **Software Developer/Engineer:** Design, develop, test, and maintain software applications for web, mobile, and desktop platforms.
+* **Data Scientist/Data Analyst:** Analyze data to extract meaningful insights and support business decision-making using statistical and analytical tools.
+* **Artificial Intelligence & Machine Learning Engineer:** Build intelligent systems that can learn from data and automate complex tasks.
+* **Cybersecurity Analyst:** Protect computer systems and networks from cyber threats, attacks, and unauthorized access.
+* **Cloud Engineer:** Manage cloud platforms, deploy applications, and maintain cloud infrastructure using services like AWS, Azure, or Google Cloud.
+* **Web and Mobile App Developer:** Create responsive websites and mobile applications that provide efficient user experiences.
+* **DevOps Engineer:** Automate software development, testing, deployment, and system monitoring to improve productivity.
+* **Higher Studies & Research:** Pursue postgraduate education (M.Tech/MS), research, or a Ph.D. to specialize in advanced technologies.
+* **Entrepreneurship & Startups:** Build innovative products, launch startups, and solve real-world problems using technology.
+* **Government Jobs & Competitive Exams:** Prepare for opportunities in public sector organizations, technical services, and government examinations related to Computer Science.
+
 
 ## Different IT Sectors 
 
