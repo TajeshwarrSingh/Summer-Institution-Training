@@ -1,5 +1,4 @@
-# Summer Institution Training
-# Day 1
+# Summer Institution Training 
 ## Introduction 
 ## Auditorium Session
 
