@@ -30,7 +30,14 @@ Basic programming knowledge, problem-solving ability, teamwork, communication, a
 
 ## Career Domains
 
-The session provided an overview of various career domains in Computer Science, including Software Development, Artificial Intelligence, Data Science, Cybersecurity, Cloud Computing, DevOps, and Web Development.
+The session provided an overview of various career domains in Computer Science, including 
+-Software Development  
+-Artificial Intelligence  
+-Data Science  
+-Cybersecurity  
+-Cloud Computing  
+-DevOps 
+-Web Development 
 
 ## Reverse Engineering
 
