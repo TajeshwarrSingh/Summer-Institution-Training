@@ -30,5 +30,4 @@ The session highlighted the major IT sectors, including software development, ne
 ## Product-Based, Service-Based, and Startup Companies
 
 The differences between product-based, service-based, and startup companies were explained, covering their work culture, business models, career growth, learning opportunities, and job responsibilities.
-
-# Day 1
+ 
