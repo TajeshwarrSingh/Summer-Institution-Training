@@ -67,9 +67,17 @@ The session provided an overview of various career domains in Computer Science, 
 * **Government Jobs & Competitive Exams:** Prepare for opportunities in public sector organizations, technical services, and government examinations related to Computer Science.
 
 
-## Different IT Sectors 
-
-The session highlighted the major IT sectors, including software development, networking, cloud computing, cybersecurity, data analytics, artificial intelligence, and IT consulting.
+## Different IT Sectors  
+* **Software Development:** Focuses on designing, developing, testing, and maintaining software applications for various platforms.
+* **Web Development:** Involves creating and maintaining websites and web applications using front-end and back-end technologies.
+* **Mobile App Development:** Deals with building applications for Android and iOS devices to provide user-friendly mobile solutions.
+* **Artificial Intelligence & Machine Learning:** Develops intelligent systems that can learn from data, automate tasks, and make predictions.
+* **Data Science & Analytics:** Extracts meaningful insights from large datasets to support business decisions and solve real-world problems.
+* **Cybersecurity:** Protects computer systems, networks, and data from cyber threats, hacking attempts, and security breaches.
+* **Cloud Computing:** Provides on-demand computing resources, storage, and services over the internet using cloud platforms like AWS, Azure, and Google Cloud.
+* **Networking & System Administration:** Manages computer networks, servers, and IT infrastructure to ensure smooth communication and system performance.
+* **DevOps:** Combines software development and IT operations to automate application deployment, testing, and maintenance.
+* **IT Consulting & Support:** Helps organizations implement technology solutions, troubleshoot technical issues, and improve business processes through IT services.
 
 ## Product-Based, Service-Based, and Startup Companies
 
