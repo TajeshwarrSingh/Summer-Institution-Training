@@ -24,6 +24,8 @@ Students were informed about different career opportunities after graduation, su
 
 ## Different IT Sectors
 
+# Day 1
+
 The session highlighted the major IT sectors, including software development, networking, cloud computing, cybersecurity, data analytics, artificial intelligence, and IT consulting.
 
 ## Product-Based, Service-Based, and Startup Companies
