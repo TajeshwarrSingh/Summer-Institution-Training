@@ -1,4 +1,4 @@
-#Summer Institution Training
+# Summer Institution Training
 # Introduction 
 ## Introduction Session for Second-Year CSE Students
 
