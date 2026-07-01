@@ -9,7 +9,7 @@ The Department of Computer Science and Engineering (CSE) conducted an introducti
 
 ## Hackathons
 
-# How a Hackathon Works
+### How a Hackathon Works
 
 ## What is a Hackathon?
 
