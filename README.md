@@ -22,12 +22,12 @@ Faculty explained the fundamentals of reverse engineering, its applications in s
 
 Students were informed about different career opportunities after graduation, such as software engineering, research, higher studies, entrepreneurship, government jobs, and freelancing.
 
-## Different IT Sectors
-
-# Day 1
+## Different IT Sectors 
 
 The session highlighted the major IT sectors, including software development, networking, cloud computing, cybersecurity, data analytics, artificial intelligence, and IT consulting.
 
 ## Product-Based, Service-Based, and Startup Companies
 
 The differences between product-based, service-based, and startup companies were explained, covering their work culture, business models, career growth, learning opportunities, and job responsibilities.
+
+# Day 1
