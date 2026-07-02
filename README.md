@@ -96,9 +96,7 @@ The session provided an overview of various career domains in Computer Science, 
 * **Skills Required:** Strong programming skills, problem-solving ability, communication, teamwork, adaptability, and continuous learning are valuable across all three types of companies.
 
  ## DAY 2
- Here's your updated **GitHub Diary – Day 2** with the additional commands you learned today:
-
-# GitHub Diary – Day 2: Introduction to BASH
+ # GitHub Diary – Day 2: Introduction to BASH
 
 * Learned the basics of **BASH (Bourne Again Shell)**.
 * Understood what a **Shell** is and how it acts as an interface between the user and the Linux kernel.
