@@ -96,3 +96,51 @@ The session provided an overview of various career domains in Computer Science, 
 * **Skills Required:** Strong programming skills, problem-solving ability, communication, teamwork, adaptability, and continuous learning are valuable across all three types of companies.
 
  ## DAY 2
+ Here's your updated **GitHub Diary – Day 2** with the additional commands you learned today:
+
+# GitHub Diary – Day 2: Introduction to BASH
+
+* Learned the basics of **BASH (Bourne Again Shell)**.
+* Understood what a **Shell** is and how it acts as an interface between the user and the Linux kernel.
+* Studied the **Linux system architecture**:
+
+  * Hardware
+  * Kernel
+  * Shell
+  * Utilities
+* Learned about different Linux shells:
+
+  * Bash
+  * C Shell (csh)
+  * Korn Shell (ksh)
+* Explored common Linux utilities:
+
+  * `cat`
+  * `vi`
+  * `nano`
+  * `wget`
+  * `ls`
+* Studied the **Linux file system structure** and directory hierarchy.
+* Learned about **file and directory permissions**.
+* Introduced to the **`chmod` (change mode)** command and its basic syntax.
+
+## Commands Practiced
+
+* `ls` – Lists the contents of the current directory.
+* `whoami` – Displays the current logged-in user.
+* `date` – Shows the current system date and time.
+* `cal` – Displays a calendar.
+* `cd` – Changes the current directory.
+* `mkdir` – Creates a new directory.
+* `cat` – Creates, views, or displays the contents of a file.
+* `pwd` – Prints the present working directory.
+
+## Diagrams Drawn
+
+* Linux Architecture (Hardware → Kernel → Shell → Utilities)
+* Linux File System Structure
+
+### Key Takeaway
+
+Today I gained a better understanding of BASH, the Linux architecture, the Linux file system, file permissions, and practiced essential Linux commands for navigating directories and managing files.
+
