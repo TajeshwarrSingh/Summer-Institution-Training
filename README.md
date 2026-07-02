@@ -95,4 +95,4 @@ The session provided an overview of various career domains in Computer Science, 
 
 * **Skills Required:** Strong programming skills, problem-solving ability, communication, teamwork, adaptability, and continuous learning are valuable across all three types of companies.
 
- 
+ ## DAY 2
