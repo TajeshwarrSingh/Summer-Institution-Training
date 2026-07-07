@@ -86,7 +86,7 @@ The session provided an overview of various career domains in Computer Science, 
 * **Product-Based Companies:** These companies develop and sell their own software products or technology solutions. They focus on innovation, product quality, research, and long-term development, offering employees opportunities to work on scalable products.
 
 * **Service-Based Companies:** Service-based companies provide IT services and software solutions to clients across different industries. Employees work on client projects, gaining exposure to multiple technologies, business domains, and project management practices.
-
+github report
 * **Startup Companies:** Startups are newly established businesses that focus on creating innovative products or services to solve real-world problems. They offer a fast-paced work environment where employees take on diverse responsibilities, learn quickly, and contribute directly to the company's growth.
 
 * **Career Growth:** Product-based companies emphasize technical expertise, service-based companies provide broad industry exposure, while startups offer rapid learning, leadership opportunities, and hands-on experience.
@@ -142,3 +142,56 @@ The session provided an overview of various career domains in Computer Science, 
 
 Today I gained a better understanding of BASH, the Linux architecture, the Linux file system, file permissions, and practiced essential Linux commands for navigating directories and managing files.
 
+#Day 3
+
+## Objective
+
+To understand the fundamentals of GitHub and learn how it is used for version control, collaboration, and project management.
+
+## Topics Covered
+
+* Introduction to Git and GitHub
+* Creating a GitHub account
+* Creating and managing repositories
+* Cloning repositories
+* Git workflow:
+
+  * `git init`
+  * `git clone`
+  * `git status`
+  * `git add`
+  * `git commit`
+  * `git push`
+  * `git pull`
+* Branch creation and management
+* Merging branches
+* Resolving merge conflicts
+* Forking repositories
+* Creating Pull Requests (PRs)
+* Collaborating with team members
+* Using `.gitignore`
+* Basic Markdown for writing `README.md` files
+
+## Practical Activities
+
+* Created a new GitHub repository.
+* Cloned the repository to the local system.
+* Added project files and committed changes.
+* Pushed commits to the remote repository.
+* Created a new branch, made changes, and merged it into the main branch.
+* Created and reviewed a Pull Request.
+* Updated the project documentation using Markdown.
+
+## Learning Outcomes
+
+By the end of the session, I was able to:
+
+* Understand the purpose of version control.
+* Use Git commands for tracking and managing project changes.
+* Create and manage GitHub repositories.
+* Collaborate with others using branches and Pull Requests.
+* Maintain project documentation with Markdown.
+
+## Conclusion
+
+The GitHub training provided practical experience with version control and collaborative software development. It improved my understanding of managing code efficiently, tracking project history, and working effectively with team members using GitHub.
