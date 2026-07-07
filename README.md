@@ -77,11 +77,9 @@ The session provided an overview of various career domains in Computer Science, 
 * **Cloud Computing:** Provides on-demand computing resources, storage, and services over the internet using cloud platforms like AWS, Azure, and Google Cloud.
 * **Networking & System Administration:** Manages computer networks, servers, and IT infrastructure to ensure smooth communication and system performance.
 * **DevOps:** Combines software development and IT operations to automate application deployment, testing, and maintenance.
-* **IT Consulting & Support:** Helps organizations implement technology solutions, troubleshoot technical issues, and improve business processes through IT services.
-
-## Product-Based, Service-Based, and Startup Companies
-
-## Product-Based, Service-Based, and Startup Companies
+* **IT Consulting & Support:** Helps organizations implement technology solutions, troubleshoot technical issues, and improve business processes through IT services 
+ 
+ ## Product-Based, Service-Based, and Startup Companies
 
 * **Product-Based Companies:** These companies develop and sell their own software products or technology solutions. They focus on innovation, product quality, research, and long-term development, offering employees opportunities to work on scalable products.
 
