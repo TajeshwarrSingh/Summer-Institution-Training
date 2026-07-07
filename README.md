@@ -142,7 +142,7 @@ github report
 
 Today I gained a better understanding of BASH, the Linux architecture, the Linux file system, file permissions, and practiced essential Linux commands for navigating directories and managing files.
 
-# Institutional Training Report – Day 3
+# Day 3
 
 ## Topic: Redirection, Piping, Wildcards, Quoting, and Escaping Characters
 
