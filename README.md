@@ -142,56 +142,65 @@ github report
 
 Today I gained a better understanding of BASH, the Linux architecture, the Linux file system, file permissions, and practiced essential Linux commands for navigating directories and managing files.
 
-#Day 3
+# Institutional Training Report – Day 3
 
-## Objective
+## Topic: Redirection, Piping, Wildcards, Quoting, and Escaping Characters
 
-To understand the fundamentals of GitHub and learn how it is used for version control, collaboration, and project management.
+### Objective
 
-## Topics Covered
+The objective of Day 3 was to understand essential Linux shell features that simplify file handling, command execution, and text processing. The session focused on using redirection, pipes, wildcards, quoting, and escaping characters to work more efficiently from the command line.
 
-* Introduction to Git and GitHub
-* Creating a GitHub account
-* Creating and managing repositories
-* Cloning repositories
-* Git workflow:
+### Topics Covered
 
-  * `git init`
-  * `git clone`
-  * `git status`
-  * `git add`
-  * `git commit`
-  * `git push`
-  * `git pull`
-* Branch creation and management
-* Merging branches
-* Resolving merge conflicts
-* Forking repositories
-* Creating Pull Requests (PRs)
-* Collaborating with team members
-* Using `.gitignore`
-* Basic Markdown for writing `README.md` files
+#### 1. Redirection
 
-## Practical Activities
+* Input redirection (`<`)
+* Output redirection (`>`)
+* Appending output (`>>`)
+* Error redirection (`2>`)
+* Redirecting both standard output and error
 
-* Created a new GitHub repository.
-* Cloned the repository to the local system.
-* Added project files and committed changes.
-* Pushed commits to the remote repository.
-* Created a new branch, made changes, and merged it into the main branch.
-* Created and reviewed a Pull Request.
-* Updated the project documentation using Markdown.
+#### 2. Piping
 
-## Learning Outcomes
+* Using the pipe operator (`|`) to pass the output of one command as the input to another command.
+* Building command pipelines to process data efficiently.
+
+#### 3. Wildcards
+
+* `*` – Matches zero or more characters.
+* `?` – Matches a single character.
+* `[]` – Matches any one character from a specified set or range.
+
+#### 4. Quoting
+
+* Single quotes (`' '`) to preserve the literal value of characters.
+* Double quotes (`" "`) to allow variable expansion while preserving spaces.
+* Command substitution using `$( )`.
+
+#### 5. Escaping Characters
+
+* Using the backslash (`\`) to treat special characters as literal characters.
+* Handling spaces and reserved symbols in filenames and commands.
+
+### Practical Exercises
+
+* Redirected command output to files and appended data using redirection operators.
+* Combined multiple commands using pipes to filter and process output.
+* Used wildcards to locate and manage groups of files.
+* Practiced different quoting methods for handling strings and variables.
+* Escaped special characters in file names and shell commands.
+
+### Learning Outcomes
 
 By the end of the session, I was able to:
 
-* Understand the purpose of version control.
-* Use Git commands for tracking and managing project changes.
-* Create and manage GitHub repositories.
-* Collaborate with others using branches and Pull Requests.
-* Maintain project documentation with Markdown.
+* Redirect command input and output effectively.
+* Use pipes to combine commands and process data efficiently.
+* Apply wildcard patterns for file selection.
+* Understand the differences between single quotes, double quotes, and command substitution.
+* Escape special characters correctly while working in the Linux shell.
 
-## Conclusion
+### Conclusion
 
-The GitHub training provided practical experience with version control and collaborative software development. It improved my understanding of managing code efficiently, tracking project history, and working effectively with team members using GitHub.
+Day 3 provided practical experience with Linux shell operations that are fundamental to system administration and scripting. The concepts of redirection, piping, wildcards, quoting, and escaping characters improved my ability to work efficiently with files, commands, and text processing in a Linux environment.
+
