@@ -204,3 +204,63 @@ By the end of the session, I was able to:
 
 Day 3 provided practical experience with Linux shell operations that are fundamental to system administration and scripting. The concepts of redirection, piping, wildcards, quoting, and escaping characters improved my ability to work efficiently with files, commands, and text processing in a Linux environment.
 
+# Day 4
+
+## Topic: PC Troubleshooting
+
+### Objective
+
+The objective of the training session was to understand common PC hardware and software issues and learn systematic troubleshooting techniques to diagnose and resolve them effectively.
+
+### Topics Covered
+
+#### 1. Introduction to PC Troubleshooting
+
+* Understanding the troubleshooting process.
+* Identifying hardware and software-related issues.
+* Following a step-by-step approach to problem-solving.
+
+#### 2. Hardware Troubleshooting
+
+* Diagnosing boot and startup failures.
+* Checking power supply, motherboard, RAM, CPU, and storage devices.
+* Identifying faulty cables and peripheral devices.
+* Replacing or reconnecting defective hardware components.
+
+#### 3. Software Troubleshooting
+
+* Resolving operating system errors.
+* Fixing slow system performance.
+* Managing software installation and compatibility issues.
+* Updating device drivers and system software.
+* Detecting and removing viruses and malware.
+
+#### 4. System Maintenance
+
+* Performing regular system updates.
+* Cleaning temporary files and optimizing disk space.
+* Running antivirus scans.
+* Backing up important data.
+* Monitoring system health and performance.
+
+### Practical Exercises
+
+* Diagnosed common startup and boot issues.
+* Checked hardware connections and component functionality.
+* Used system tools to identify and resolve software problems.
+* Updated drivers and performed routine maintenance tasks.
+* Optimized system performance by removing unnecessary files and applications.
+
+### Learning Outcomes
+
+By the end of the session, I was able to:
+
+* Identify common PC hardware and software problems.
+* Apply a structured troubleshooting process to resolve issues.
+* Perform routine system maintenance to improve performance.
+* Use diagnostic tools to detect faults and optimize system functionality.
+* Understand preventive measures to reduce future system failures.
+
+### Conclusion
+
+The PC troubleshooting session provided practical knowledge and hands-on experience in diagnosing and resolving common computer problems. It strengthened my technical skills in maintaining system performance, identifying faults, and ensuring the reliable operation of personal computers.
