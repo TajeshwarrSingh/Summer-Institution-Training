@@ -199,11 +199,7 @@ By the end of the session, I was able to:
 * Apply wildcard patterns for file selection.
 * Understand the differences between single quotes, double quotes, and command substitution.
 * Escape special characters correctly while working in the Linux shell.
-
-### Conclusion
-
-Day 3 provided practical experience with Linux shell operations that are fundamental to system administration and scripting. The concepts of redirection, piping, wildcards, quoting, and escaping characters improved my ability to work efficiently with files, commands, and text processing in a Linux environment.
-
+ 
 # Day 4
 
 ## Topic: PC Troubleshooting
@@ -252,6 +248,64 @@ By the end of the session, I was able to:
 * Use diagnostic tools to detect faults and optimize system functionality.
 * Understand preventive measures to reduce future system failures.
 
+ # Day 5
+ 
+## Topic: PC Troubleshooting  
+
+### Objective
+
+The objective of the training session was to gain practical knowledge of PC troubleshooting and become familiar with the internal hardware components of a computer through hands-on observation in the hardware lab.
+
+### Topics Covered
+
+#### 1. PC Troubleshooting
+
+* Understanding the basic troubleshooting process.
+* Identifying common hardware-related issues.
+* Diagnosing power supply, boot, and startup problems.
+* Checking RAM, hard disk/SSD, motherboard, processor, and cooling fan functionality.
+* Inspecting cables, connectors, and peripheral devices.
+
+#### 2. Identification of PC Components
+
+During the hardware lab session, the following components were observed and studied:
+
+* Motherboard
+* Central Processing Unit (CPU)
+* RAM (Random Access Memory)
+* Hard Disk Drive (HDD) and Solid-State Drive (SSD)
+* Power Supply Unit (PSU)
+* Heat sink and CPU cooling fan
+* CMOS battery
+* Expansion cards (Graphics Card, Network Card)
+* SATA and power cables
+* Cabinet and front panel connectors
+
+#### 3. Practical Demonstration
+
+* Opened a desktop computer cabinet safely.
+* Identified and examined each hardware component.
+* Learned the purpose and function of different PC components.
+* Observed proper handling and installation techniques.
+* Discussed common hardware failures and troubleshooting methods.
+
+### Practical Activities
+
+* Inspected the internal components of a desktop computer.
+* Identified each component and understood its role in system operation.
+* Observed the process of assembling and disassembling a PC.
+* Learned safety precautions, including protection against electrostatic discharge (ESD), while handling hardware.
+
+### Learning Outcomes
+
+By the end of the session, I was able to:
+
+* Identify the major internal components of a personal computer.
+* Understand the function of each hardware component.
+* Perform basic hardware inspection and troubleshooting.
+* Follow safe procedures while handling computer hardware.
+* Develop confidence in diagnosing common hardware-related issues.
+
 ### Conclusion
 
-The PC troubleshooting session provided practical knowledge and hands-on experience in diagnosing and resolving common computer problems. It strengthened my technical skills in maintaining system performance, identifying faults, and ensuring the reliable operation of personal computers.
+The Day 5 practical session provided valuable hands-on experience in PC troubleshooting and hardware identification. Observing and handling real computer components in the hardware lab enhanced my understanding of computer architecture and improved my practical skills in diagnosing and maintaining desktop computers.
