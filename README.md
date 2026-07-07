@@ -238,19 +238,10 @@ The objective of the training session was to understand common PC hardware and s
 #### 4. System Maintenance
 
 * Performing regular system updates.
-* Cleaning temporary files and optimizing disk space.
-* Running antivirus scans.
+* Cleaning temporary files and optimizing disk space.    
 * Backing up important data.
 * Monitoring system health and performance.
-
-### Practical Exercises
-
-* Diagnosed common startup and boot issues.
-* Checked hardware connections and component functionality.
-* Used system tools to identify and resolve software problems.
-* Updated drivers and performed routine maintenance tasks.
-* Optimized system performance by removing unnecessary files and applications.
-
+ 
 ### Learning Outcomes
 
 By the end of the session, I was able to:
